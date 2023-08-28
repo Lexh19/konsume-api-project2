@@ -3,7 +3,7 @@
         <ul>
             <li>
             <div class="btn">
-             <img src="assets/img/content/arrow-left.svg"  style="background:rgba(238, 38, 157, 1);" ></div>
+             <img src="/assets/img/content/arrow-left.svg"  style="background:rgba(238, 38, 157, 1);" ></div>
              <a>Beranda / Sumber Belajar</a>
             </li>
         </ul>

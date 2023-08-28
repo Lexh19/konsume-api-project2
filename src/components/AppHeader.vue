@@ -2,7 +2,7 @@
     <header class="header" >
         
         <ul >
-            <img src="assets/img/header/image 4.svg" alt="">
+            <img src="/assets/img/header/image-4.svg" alt="">
         <li>
             <div class="btn">
             <a>Beranda</a>
@@ -23,7 +23,7 @@
 
         <li>
             <div class="btn">
-            <a>Login<img src="assets/img/header/Vector.svg" alt="" class="icon"></a>
+            <a>Login<img src="/assets/img/header/Vector.svg" alt="" class="icon"></a>
             </div>
         </li>
     </ul>

@@ -11,11 +11,11 @@
             <p>non peoident, sunt n culpa quid officia deserunt moillit anim id est laborum</p>
         </div>
         <div class="logo">
-        <img src="assets/img/content/Group.svg" alt="">
+        <img src="/assets/img/content/Group.svg" alt="">
         </div>
 
         <div class="sliders">
-            <div class="btn"><img src="assets/img/content/Icon Button.svg" alt=""></div>
+            <div class="btn"><img src="/assets/img/content/Icon-Button.svg" alt=""></div>
           <div v-for="item in data1" :key="item">
            <div v-for="image in data1 " :key="image.image" class="sliders-inside">
                 <img :src="image.image"  alt="Image">
@@ -25,12 +25,12 @@
             </div>
 
 
-            <div class="btn"><img src="assets/img/content/Icon Button (1).svg" alt=""></div>
+            <div class="btn"><img src="/assets/img/content/Icon-Button-(1).svg" alt=""></div>
         
         </div>
         
         <div class="componen">
-            <img src="assets/img/Group 8.svg" alt="">
+            <img src="/assets/img/Group8.svg" alt="">
         </div>
 
             <div class="content2">
@@ -44,24 +44,24 @@
                             <p>website kami.</p>
                         </div>
                         <div class="content2-inside">
-                            <img src="assets/img/content/Icon1.svg" alt="">
-                            <h1><img src="assets/img/content/Frame58.svg" alt="">Sumber Belajar</h1>
-                            <a>Lihat Selengkapnya <img src="assets/img/content/Vector1.svg" alt=""></a>
+                            <img src="/assets/img/content/Icon1.svg" alt="">
+                            <h1><img src="/assets/img/content/Frame58.svg" alt="">Sumber Belajar</h1>
+                            <a>Lihat Selengkapnya <img src="/assets/img/content/Vector1.svg" alt=""></a>
                         </div>
                         <div class="content2-inside">
-                            <img src="assets/img/content/Icon2.svg" alt="">
-                            <h1><img src="assets/img/content/Frame59.svg" alt="">Karya Siswa</h1>
-                            <a>Lihat Selengkapnya <img src="assets/img/content/Vector1.svg" alt=""></a>
+                            <img src="/assets/img/content/Icon2.svg" alt="">
+                            <h1><img src="/assets/img/content/Frame59.svg" alt="">Karya Siswa</h1>
+                            <a>Lihat Selengkapnya <img src="/assets/img/content/Vector1.svg" alt=""></a>
                         </div>
                         <div class="content2-inside">
-                            <img src="assets/img/content/Icon3.svg" alt="">
-                            <h1><img src="assets/img/content/Frame60.svg" alt="">Siswa Jateng Pintar</h1>
-                            <a>Lihat Selengkapnya <img src="assets/img/content/Vector1.svg" alt=""></a>
+                            <img src="/assets/img/content/Icon3.svg" alt="">
+                            <h1><img src="/assets/img/content/Frame60.svg" alt="">Siswa Jateng Pintar</h1>
+                            <a>Lihat Selengkapnya <img src="/assets/img/content/Vector1.svg" alt=""></a>
                         </div>
                         <div class="content2-inside">
-                            <img src="assets/img/content/Icon4.svg" alt="" >
-                            <h1><img src="assets/img/content/Frame61.svg" alt="">Kontributor</h1>
-                            <a>Lihat Selengkapnya <img src="assets/img/content/Vector1.svg" alt=""></a>
+                            <img src="/assets/img/content/Icon4.svg" alt="" >
+                            <h1><img src="/assets/img/content/Frame61.svg" alt="">Kontributor</h1>
+                            <a>Lihat Selengkapnya <img src="/assets/img/content/Vector1.svg" alt=""></a>
                         </div>
             </div>
 
@@ -79,7 +79,7 @@
                         <a href=""> 
                           <img :src="icon.icon" alt="" class="icon1">
                           {{ icon.title }} 
-                          <img src="assets/img/content/Vector.svg" alt="" class="arrow"></a>
+                          <img src="/assets/img/content/Vector.svg" alt="" class="arrow"></a>
 
                         </div>
                     </div>

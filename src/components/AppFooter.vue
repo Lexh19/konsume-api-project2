@@ -1,6 +1,6 @@
 <template>
     <footer class="footer">
-        <img src="assets/img/g10.svg" alt="">
+        <img src="/assets/img/footer/g10.svg" alt="">
     </footer>
 </template>
 
